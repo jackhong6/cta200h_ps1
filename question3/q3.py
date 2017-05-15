@@ -1,3 +1,6 @@
+# CTA200H 2017 Problem Set 1, Question 3
+# Jack Hong and Bill Kong
+
 import scipy.integrate as integrate
 import numpy as np
 import matplotlib.pyplot as plt
